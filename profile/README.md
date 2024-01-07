@@ -9,7 +9,7 @@ Let's build an app to track personal finances.
 Let's build an app to do business accounting.
 
 ## Blog
-Blkog for the project built with Jekyll.
+Blog for the project built with Jekyll.
 
 ## Ongoing Web Application
 Let's learn rust and web development through building a web application.
