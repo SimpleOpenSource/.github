@@ -1,15 +1,13 @@
 # SimpleOpenSource 💻
-Let's simplify the world.
-Let's share knowledge while providing value with free tools.
+Let's share knowledge.
 
-## [Blog](https://simpleopensource.github.io)
-Blog for the project built with Jekyll.
-* [Repo of the project](https://github.com/SimpleOpenSource/SimpleOpenSource.github.io)
+## [Blog](https://simpleopensource.com)
+Blog for the project built with Hugo.
+* [Repo of the project](https://github.com/SimpleOpenSource/SimpleOpenSource.com)
 
-## [Documentation](https://simpleopensource.github.io/docs)
-Documentation on many software development related topics in book format
+## [Documentation](https://docs.simpleopensource.com)
+Knowledge base of various subjects in continuous development.
 * [Repo of the project](https://github.com/SimpleOpenSource/docs)
 
-## Ongoing Web Application
-Let's learn rust and web development through building a web application.
+
 
